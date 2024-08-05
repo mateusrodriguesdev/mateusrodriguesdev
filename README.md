@@ -6,7 +6,7 @@
 </div>
 
 <!-- Presentation -->
-<p>
+<p align="center">
   Oi 👋. Eu sou o Mateus. Tenho 26 anos e estou estudando desenvolvimento web.
 </p>
 
