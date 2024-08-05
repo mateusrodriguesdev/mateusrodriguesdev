@@ -20,6 +20,7 @@
 </picture>
 
 <br>
+<br>
 
 <!-- GithubStats -->
 ![mateusrodriguesdev GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusrodriguesdev&show_icons=true&theme=gotham)
