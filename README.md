@@ -9,6 +9,13 @@
   Oi 👋. Eu sou o Mateus. Tenho 26 anos e estou estudando desenvolvimento web.
 </p>
 
+<!-- snake -->
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusrodriguesdev/mateusrodriguesdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusrodriguesdev/mateusrodriguesdev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusrodriguesdev/mateusrodriguesdev/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!-- GithubStats -->
 ![mateusrodriguesdev GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusrodriguesdev&show_icons=true&theme=gotham)
 
@@ -32,3 +39,4 @@
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
+
