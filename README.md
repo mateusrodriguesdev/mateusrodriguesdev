@@ -5,6 +5,8 @@
   </a>
 </div>
 
+<br>
+
 <!-- Presentation -->
 <p align="center">
   Oi 👋. Eu sou o Mateus. Tenho 26 anos e estou estudando desenvolvimento web.
@@ -17,9 +19,12 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusrodriguesdev/mateusrodriguesdev/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br>
+
 <!-- GithubStats -->
 ![mateusrodriguesdev GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusrodriguesdev&show_icons=true&theme=gotham)
 
+<br>
 
 <!-- GIF -->
 <p align="left">
